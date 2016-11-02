@@ -1,0 +1,78 @@
+body {
+  font-family:'Lucida Grande','Hiragino Kaku Gothic ProN',Meiryo, sans-serif !important;
+}
+
+
+.intro {
+  height: 400px;
+  position: relative;
+  background: url(reef4.jpg) center center / cover no-repeat fixed;
+}
+
+.contain {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  width: 80%;
+  height: 200px;
+  text-align: center;
+  margin: auto;
+}
+
+.ido {
+  height: 400px;
+  position: relative;
+  background: url(mokume.jpg) center center / cover no-repeat fixed;
+}
+
+.about {
+  height: 410px;
+  position: relative;
+  background: url(reef.jpg) center center / cover no-repeat fixed;
+}
+
+.card {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  width: 60%;
+  height: 370px;
+  text-align: center;
+  margin: auto;
+}
+
+h2 {
+  font-size: 50px !important;
+}
+
+.work {
+  position: relative;
+  background: url(mokume.jpg) center center / cover no-repeat fixed;
+}
+
+.bull {
+  margin-top: 30px;
+  text-align: center;
+  background-color: aliceblue;
+}
+
+.develop {
+  height: 150px;
+  background-color: blue;
+}
+
+.contact {
+  background: url(reef3.jpg) center center / cover no-repeat fixed;
+  height: 200px;
+  position: relative;
+  background-color: white;
+}
+
+#footer{
+  text-align: center;
+  background-color: gray;
+}
