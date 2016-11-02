@@ -28,7 +28,7 @@ body {
 }
 
 .about {
-  height: 410px;
+  height: 450px;
   position: relative;
   background: url(reef.jpg) center center / cover no-repeat fixed;
 }
